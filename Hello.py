@@ -4,7 +4,7 @@ import numpy as np
 from scipy.ndimage.interpolation import zoom
 from streamlit_drawable_canvas import st_canvas
 from utils import process_image
-st.markdown("# :red[A]:blue[p]:green[l]:orange[i]:blue[c]:red[a]cion de :green[reconocimiento] de numeros :pencil: 💻🤖👺")
+st.markdown("# :red[A]:blue[p]:green[l]:orange[i]:blue[c]:red[a]:pink[c]:green[i]:brown[o]n de :green[reconocimiento] de numeros :pencil: 💻🤖👺")
 
 # Load trained model
 model = tf.keras.models.load_model('mi_modelo.h5')
